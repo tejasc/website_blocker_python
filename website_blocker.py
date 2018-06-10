@@ -3,6 +3,8 @@ from datetime import datetime as dt
 
 #host_path = "/etc/hosts"
 
+#To verify run here I am creating temporary hosts file. Replace hostfile_test""with actual path of hosts file.
+
 hostfile_temp ="hostsfile_test"
 
 redirect = "127.0.0.1"
