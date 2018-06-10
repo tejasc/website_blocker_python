@@ -1,7 +1,8 @@
-# website_blocker_python
+## website_blocker_python
+
 Python script to block website/urls during certain hours
 
-#Run instructions
+# Run instructions
 1. Using terminal: We need to run this script using sudo because hosts file needs admin permission to write.
 
       $ sudo python3 <pathToPythonFile>/website_blocker.py
